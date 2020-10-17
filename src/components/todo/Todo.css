@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.todo-card {
+  width: 50%;
+  margin: auto;
+  margin-top: 60px;
+}
+.search-box {
+  width: 96%;
+}
+.search-container {
+  display: flex;
+}
